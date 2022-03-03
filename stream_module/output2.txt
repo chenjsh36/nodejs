@@ -1,0 +1,1 @@
+alloc 使用Stream写入�alloc END.

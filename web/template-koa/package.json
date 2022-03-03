@@ -1,0 +1,20 @@
+{
+  "name": "hello-koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "chenjsh36",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "2.0.0",
+    "koa-router": "7.0.0",
+    "koa-bodyparser": "3.2.0",
+    "nunjucks": "2.4.2"
+  }
+}
